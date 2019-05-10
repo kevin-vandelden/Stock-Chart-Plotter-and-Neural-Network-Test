@@ -34,7 +34,7 @@ the "daystoplot" variable is important to chose the number of days you are looki
     5. Adjusted Close Price
     6. Volume of Stock
 
-# Neural Network Section
+## Neural Network Section
 
 This section is where any sort of automation for multiple stock choices is where work is needed, 
 currently a .mat file needs to be loaded that contains a handful of variables, including 
@@ -43,6 +43,11 @@ the trained nerual network itself.
 For this network a Nonlinear Autoregressive (NAR) series was used, to predict a  series y(t) given d past values of y(t)
 The input of this network would end up being a 10x800 matrix representing 5 variables for 2 stocks, and 800 timesteps, 
 starting january 2nd 2016.
+
+- The network was made to uses 10 hidden neurons, and d=5 time delays, and can be seen imaged below
+
+![image](https://user-images.githubusercontent.com/50057221/57498878-9964b980-72ab-11e9-8b0f-43bcac8820ff.png)
+
 
     1. Open price stock 1
     2. High price stock 1
