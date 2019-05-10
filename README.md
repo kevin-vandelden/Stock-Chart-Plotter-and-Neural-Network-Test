@@ -44,16 +44,16 @@ For this network a Nonlinear Autoregressive (NAR) series was used, to predict a 
 The input of this network would end up being a 10x800 matrix representing 5 variables for 2 stocks, and 800 timesteps, 
 starting january 2nd 2016.
 
-    1.Open price stock 1
-    2.High price stock 1
-    3.Low price stock 1
-    4.Close price stock 1
-    5.Volume stock 1
-    6.Open price stock 2
-    7.High price stock 2
-    8.Low price stock 2
-    9.Close price stock 2
-    10.Volume stock price 2
+    1. Open price stock 1
+    2. High price stock 1
+    3. Low price stock 1
+    4. Close price stock 1
+    5. Volume stock 1
+    6. Open price stock 2
+    7. High price stock 2
+    8. Low price stock 2
+    9. Close price stock 2
+    10. Volume stock price 2
     
 A Bayesian Regularization Model (BR) is used for training, and takes only a couple of minutes to be completed
 - A Scaled Conjugate Gradient model was investigated, because it is able to handle much larger inputs, up to hundreds of stock variables
