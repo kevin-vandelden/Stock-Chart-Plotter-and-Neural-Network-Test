@@ -1,6 +1,7 @@
 # Stock-Chart-Plotter
-This is a test of sharing a program to plot a handful of technical indicators for select stocks as well as investigate 
-the usefulness of a Neural Network
+
+# This is a test of sharing a program to plot a handful of technical indicators for select stocks as well as investigate 
+# the usefulness of a Neural Network
 
 There are a handful of important details in order for the program to run correctly 
 
@@ -25,7 +26,7 @@ the collection function
 
 the "daystoplot" variable is important to chose the number of days you are looking to plot values for 
 
-the "Data Assignment" section splits the structure of the imported data into matricies of the input including the following values
+## "Data Assignment" section splits the structure of the imported data into matricies of the input including the following values
 
     1. Date
     2. Market Open Price
@@ -34,7 +35,7 @@ the "Data Assignment" section splits the structure of the imported data into mat
     5. Adjusted Close Price
     6. Volume of Stock
 
-Neural Network Section
+# Neural Network Section
 
 This section is where any sort of automation for multiple stock choices is where work is needed, 
 currently a .mat file needs to be loaded that contains a handful of variables, including 
@@ -69,7 +70,7 @@ in gross error, for this reason i'm investigating using some simple indicators a
 A figure is created for simple comparison at this time, and consists of the vector of stock price one (VNET) 
 for 36 days before 05/01/2019 (May 1st) as well as the output of the Nural Network for 5 following days (red circles)
 
-The Last Volume and Plotting sections are using the "daystoplot" variable as well as the finance toolbox to calculate and 
+## The Last Volume and Plotting sections are using the "daystoplot" variable as well as the finance toolbox to calculate and 
 plot the following indicators 
 
      1. Candlestick Stock Charts
