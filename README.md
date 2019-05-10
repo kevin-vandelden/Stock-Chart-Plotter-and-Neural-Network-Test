@@ -84,6 +84,8 @@ plot the following indicators
      5. MACD Indicator Line
      6. RSI indicator
      
+![VNET](https://user-images.githubusercontent.com/50057221/57499140-88687800-72ac-11e9-86f4-735b9fa549d9.jpg)
+     
 These charts are organized in a similar matter to an online platform I currently use, StockCharts.com
 
     
