@@ -74,6 +74,8 @@ in gross error, for this reason i'm investigating using some simple indicators a
 A figure is created for simple comparison at this time, and consists of the vector of stock price one (VNET) 
 for 36 days before 05/01/2019 (May 1st) as well as the output of the Nural Network for 5 following days (red circles)
 
+![VNETNET](https://user-images.githubusercontent.com/50057221/57499235-f745d100-72ac-11e9-8782-04db916c651c.jpg)
+
 ## The Last Volume and Plotting sections are using the "daystoplot" variable as well as the finance toolbox to calculate and 
 plot the following indicators 
 
