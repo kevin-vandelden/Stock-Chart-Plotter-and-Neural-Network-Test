@@ -1,7 +1,6 @@
 # Stock-Chart-Plotter
 
-# This is a test of sharing a program to plot a handful of technical indicators for select stocks as well as investigate 
-# the usefulness of a Neural Network
+# This is a test of sharing a program to plot a handful of technical indicators for select stocks as well as investigate the usefulness of a Neural Network
 
 There are a handful of important details in order for the program to run correctly 
 
