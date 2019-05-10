@@ -84,6 +84,7 @@ for 36 days before 05/01/2019 (May 1st) as well as the output of the Nural Netwo
      4. 50 day moving average
      5. MACD Indicator Line
      6. RSI indicator
+     7. Volume (right hand Y axis)
      
 ![VNET](https://user-images.githubusercontent.com/50057221/57499140-88687800-72ac-11e9-86f4-735b9fa549d9.jpg)
      
